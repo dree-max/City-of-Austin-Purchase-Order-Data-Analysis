@@ -1,6 +1,7 @@
 # Excel Analysis Project: City of Austin Purchase Order Data
 <img src="docs/intro.png" alt="Intro" style="width: 100%; height: 483%; display: block;" />
-##![Excel Analysis Project](docs/intro.png)
+
+[Click here](https://docs.google.com/presentation/d/1Ivk6UcOE11hH6RNGe2bg5QQTKmRjemi4EybS5Lqt4KU/edit?usp=sharing) for link to presentation file
 
 ## Project Overview
 This project focuses on analyzing the City of Austin's purchase order commodity line-level dataset using Microsoft Excel. The primary goal is to uncover significant patterns in spending, identify key vendors, and extract time-based trends to provide actionable insights into the city's procurement activities.
@@ -112,14 +113,14 @@ All these extracted columns were integrated into the main data table, serving as
 ## Key Insights!
 Through the application of the described Excel analysis techniques, this project enables the extraction of several key insights critical for understanding and optimizing the City of Austin's procurement processes:
 <p align="center">
-  <img src="docs\Key insights & recommendations.png" alt="Price trends over time" width="634" height="306" style="max-width:100%;height:auto;">
+  <img src="docs\Key insights & recommendations.png" alt="Price trends over time" style="width: 100%; height: 483%; display: block;">
 </p>
 
 -   ### **Yearly Spending Trends**: 
 Observe how total expenditure has evolved year-over-year, identifying periods of increased or decreased spending and potential correlations with economic factors or policy changes.
 
 <p align="center">
-  <img src="docs/Price%20trends%20over%20time.png" alt="Price trends over time" width="634" height="306" style="max-width:100%;height:auto;">
+  <img src="docs/Price%20trends%20over%20time.png" alt="Price trends over time" style="width: 100%; height: 483%; display: block;">
 </p>
 
 
@@ -128,14 +129,14 @@ Observe how total expenditure has evolved year-over-year, identifying periods of
 Pinpoint top vendors and assess the city's reliance on specific suppliers. This insight can inform vendor diversification strategies and negotiation leverage.
 
 <p align="center">
-  <img src="docs\Top vendors by spend.png" alt="Price trends over time" width="634" height="306" style="max-width:100%;height:auto;">
+  <img src="docs\Top vendors by spend.png" alt="Price trends over time" style="width: 100%; height: 483%; display: block;">
 </p>
 
 -   ### **Most Purchased Goods**: 
 Understand which commodities are most frequently acquired, providing a clear picture of the city's operational needs and consumption patterns.
 
 <p align="center">
-  <img src="docs\Most frequently purchased commodities.png" alt="Price trends over time" width="364" height="306" style="max-width:100%;height:auto;">
+  <img src="docs\Most frequently purchased commodities.png" alt="Price trends over time" style="width: 100%; height: 483%; display: block;">
 </p>
 
 
@@ -144,7 +145,7 @@ Understand which commodities are most frequently acquired, providing a clear pic
 Detect seasonal or periodic spikes in expenditure, allowing for better budget forecasting and resource allocation throughout the year.
 
 <p align="center">
-  <img src="docs\Spending trends ova time.png" alt="Price trends over time" width="364" height="306" style="max-width:100%;height:auto;">
+  <img src="docs\Spending trends ova time.png" alt="Price trends over time" style="width: 100%; height: 483%; display: block;">
 </p>
 
 
@@ -152,7 +153,7 @@ Detect seasonal or periodic spikes in expenditure, allowing for better budget fo
 Analyze spending against master agreements and contracts to ensure compliance, identify underutilized agreements, or flag those nearing their limits.
 
 <p align="center">
-  <img src="docs\Spend by Master agreements.png" alt="Price trends over time" width="364" height="306" style="max-width:100%;height:auto;">
+  <img src="docs\Spend by Master agreements.png" alt="Price trends over time" style="width: 100%; height: 483%; display: block;">
 </p>
 
 
