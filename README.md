@@ -1,5 +1,5 @@
 # Excel Analysis Project: City of Austin Purchase Order Data
-<img src="docs/intro.png" alt="Intro" style="width: 100%; height: auto; display: block;" />
+<img src="docs/intro.png" alt="Intro" style="width: 621; height: 483; display: block;" />
 ##![Excel Analysis Project](docs/intro.png)
 
 ## Project Overview
