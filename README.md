@@ -112,14 +112,14 @@ All these extracted columns were integrated into the main data table, serving as
 ## Key Insights!
 Through the application of the described Excel analysis techniques, this project enables the extraction of several key insights critical for understanding and optimizing the City of Austin's procurement processes:
 <p align="center">
-  <img src="docs\Key insights & recommendations.png" alt="Price trends over time" width="500" height="300" style="max-width:100%;height:auto;">
+  <img src="docs\Key insights & recommendations.png" alt="Price trends over time" width="634" height="306" style="max-width:100%;height:auto;">
 </p>
 
 -   ### **Yearly Spending Trends**: 
 Observe how total expenditure has evolved year-over-year, identifying periods of increased or decreased spending and potential correlations with economic factors or policy changes.
 
 <p align="center">
-  <img src="docs/Price%20trends%20over%20time.png" alt="Price trends over time" width="300" height="300" style="max-width:100%;height:auto;">
+  <img src="docs/Price%20trends%20over%20time.png" alt="Price trends over time" width="634" height="306" style="max-width:100%;height:auto;">
 </p>
 
 
@@ -128,14 +128,14 @@ Observe how total expenditure has evolved year-over-year, identifying periods of
 Pinpoint top vendors and assess the city's reliance on specific suppliers. This insight can inform vendor diversification strategies and negotiation leverage.
 
 <p align="center">
-  <img src="docs\Top vendors by spend.png" alt="Price trends over time" width="300" height="200" style="max-width:400%;height:auto;">
+  <img src="docs\Top vendors by spend.png" alt="Price trends over time" width="634" height="306" style="max-width:100%;height:auto;">
 </p>
 
 -   ### **Most Purchased Goods**: 
 Understand which commodities are most frequently acquired, providing a clear picture of the city's operational needs and consumption patterns.
 
 <p align="center">
-  <img src="docs\Most frequently purchased commodities.png" alt="Price trends over time" width="300" height="200" style="max-width:400%;height:auto;">
+  <img src="docs\Most frequently purchased commodities.png" alt="Price trends over time" width="364" height="306" style="max-width:100%;height:auto;">
 </p>
 
 
@@ -144,7 +144,7 @@ Understand which commodities are most frequently acquired, providing a clear pic
 Detect seasonal or periodic spikes in expenditure, allowing for better budget forecasting and resource allocation throughout the year.
 
 <p align="center">
-  <img src="docs\Spending trends ova time.png" alt="Price trends over time" width="300" height="200" style="max-width:400%;height:auto;">
+  <img src="docs\Spending trends ova time.png" alt="Price trends over time" width="364" height="306" style="max-width:100%;height:auto;">
 </p>
 
 
@@ -152,7 +152,7 @@ Detect seasonal or periodic spikes in expenditure, allowing for better budget fo
 Analyze spending against master agreements and contracts to ensure compliance, identify underutilized agreements, or flag those nearing their limits.
 
 <p align="center">
-  <img src="docs\Spend by Master agreements.png" alt="Price trends over time" width="300" height="200" style="max-width:400%;height:auto;">
+  <img src="docs\Spend by Master agreements.png" alt="Price trends over time" width="364" height="306" style="max-width:100%;height:auto;">
 </p>
 
 
