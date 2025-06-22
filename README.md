@@ -1,5 +1,6 @@
 # Excel Analysis Project: City of Austin Purchase Order Data
-![Excel Analysis Project](docs/intro.png)
+<img src="docs/intro.png" alt="Intro" style="width: 100%; height: auto; display: block;" />
+##![Excel Analysis Project](docs/intro.png)
 
 ## Project Overview
 This project focuses on analyzing the City of Austin's purchase order commodity line-level dataset using Microsoft Excel. The primary goal is to uncover significant patterns in spending, identify key vendors, and extract time-based trends to provide actionable insights into the city's procurement activities.
@@ -25,22 +26,22 @@ This project focuses on analyzing the City of Austin's purchase order commodity 
 This project demonstrates various data analysis techniques within Excel, focusing on:
 
 1.  **Total Spend Over Time**: Visualizing the overall spending patterns across different years to identify trends and anomalies.
-    -   *Excel Implementation*: Utilizing PivotTables with `YEAR` in columns and `TOTAL_AMOUNT` in values.
+   
 
 2.  **Top Vendors by Spend**: Identifying the primary vendors by total expenditure, crucial for vendor management and negotiation strategies.
-    -   *Excel Implementation*: Employing PivotTables with `VENDOR_NAME` in rows and `TOTAL_AMOUNT` in values, sorted in descending order.
+   
 
 3.  **Most Frequently Purchased Commodities**: Pinpointing the most commonly acquired goods or services, offering insights into operational needs.
-    -   *Excel Implementation*: Using PivotTables with `COMMODITY_DESCRIPTION` in rows and `QUANTITY` or `TOTAL_AMOUNT` in values.
+  
 
 4.  **Spending Trend by Month/Year**: Analyzing spending fluctuations on a monthly and yearly basis to understand seasonality and long-term trends.
-    -   *Excel Implementation*: Creating a `MONTH-YEAR` field using `=TEXT(A2, "mm-yyyy")` and then using a PivotTable with this new field in rows and `TOTAL_AMOUNT` in values. This can be visualized effectively with line or column charts.
+  
 
 5.  **Average Spend Per Commodity**: Calculating the average expenditure for specific commodities, useful for budgeting and cost control.
-    -   *Excel Implementation*: Achieved either through the `AVERAGEIFS()` function (e.g., `=AVERAGEIFS(TOTAL_AMOUNT_RANGE, COMMODITY_RANGE, "Some Commodity")`) or by setting `TOTAL_AMOUNT` to average in a PivotTable.
+ 
 
 6.  **Spend by Contract or Master Agreement**: Examining expenditure linked to specific contracts or master agreements to assess compliance and utilization.
-    -   *Excel Implementation*: Filtering data or using PivotTables with `CONTRACT_NAME` or `MASTER_AGREEMENT` in rows and `TOTAL_AMOUNT` in values.
+
 
 ### Visualizations & Interactivity
 
